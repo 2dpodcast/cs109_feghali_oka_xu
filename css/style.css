@@ -1,0 +1,98 @@
+body {
+  font: 10px sans-serif;
+}
+
+#title{
+  background: #292929;
+  margin:0;
+}
+
+#author{
+  background: #292929;
+  margin:0;
+}
+
+h1,h2,h3, h5,h6 {
+  margin:0;
+  font-family: inherit;
+  font-weight: bold;
+  color:white;
+  text-rendering: optimizelegibility;
+}
+
+h4 {
+  margin:0;
+  font : 14px sans-serif;
+  font-weight: bold;
+  color:darkgrey;
+  text-rendering: optimizelegibility;
+  padding: 5px 0;
+  text-align: center;
+
+}
+
+h6{
+    padding:18px 0 124px 510px;
+    font-size: 15px;
+}
+
+h5{
+  position: inherit;
+  padding:5px 0 0 0;
+  text-align: right;  
+  font-size: 10px;
+  line-height: 10px;
+  color:white;
+  text-decoration:underline;
+}
+
+h1{
+    font-size: 60px;
+    padding: 200px 0 15px 0;
+    line-height: 20px;
+}
+
+h3{
+  padding: 30px 0;
+  text-align: right;  
+  font-size: 20px;
+  line-height: 25px;
+  color:#292929;
+}
+
+h2{
+  font-weight:normal;
+  padding: 0 0 0 0;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+
+A:link {
+  text-decoration: none;
+}
+a{
+    color:white;
+    text-align: inherit;
+}
+
+.sep {
+  padding:15px 0;
+  background-color: #292929;
+}
+
+#description{
+  padding:15px 0 0 0;
+  font: 13px sans-serif;
+  color: #292929;
+  background-color: white;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+main {
+  font: 10px sans-serif;
+}
